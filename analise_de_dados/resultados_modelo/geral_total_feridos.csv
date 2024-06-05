@@ -1,0 +1,28 @@
+total_feridos,Parameter,Std. Err.,T-stat,P-value,Lower CI,Upper CI
+const,58.557,0.9347,62.645,0.0000,56.725,60.390
+aux_emp_recapeamento_vlr_investimento,1.698e-06,4.812e-07,3.5290,0.0004,7.55e-07,2.641e-06
+aux_emp_transporte_coletivo_vlr_investimento,2.605e-07,5.899e-08,4.4149,0.0000,1.448e-07,3.761e-07
+aux_emp_ciclovia_vlr_investimento,-6.216e-07,4.494e-07,-1.3830,0.1667,-1.503e-06,2.594e-07
+aux_emp_praca_vlr_investimento,-1.087e-06,8.17e-07,-1.3299,0.1836,-2.688e-06,5.149e-07
+aux_emp_viaria_vlr_investimento,-2.264e-07,1.55e-07,-1.4606,0.1441,-5.303e-07,7.744e-08
+aux_emp_vlt_vlr_investimento,5.013e-07, 6.1e-08,8.2186,0.0000,3.818e-07,6.209e-07
+aux_emp_calcadas_vlr_investimento,-7.808e-07,1.162e-07,-6.7219,0.0000,-1.008e-06,-5.531e-07
+aux_emp_parque_vlr_investimento,7.093e-07,3.903e-06,0.1817,0.8558,-6.942e-06,8.36e-06
+aux_emp_pavimentacao_vlr_investimento,1.115e-06,1.328e-07,8.4010,0.0000,8.552e-07,1.376e-06
+aux_emp_aero_vlr_investimento,2.584e-07,5.066e-08,5.0996,0.0000,1.591e-07,3.577e-07
+aux_emp_revitalizacao_vlr_investimento,1.369e-05,1.129e-06,12.126,0.0000,1.147e-05,1.59e-05
+aux_emp_asfalto_vlr_investimento,-1.153e-06,8.808e-07,-1.3090,0.1906,-2.879e-06,5.735e-07
+aux_emp_calcamento_vlr_investimento,-1.889e-06,3.664e-06,-0.5154,0.6063,-9.07e-06,5.293e-06
+aux_emp_sarjeta_vlr_investimento,4.389e-06,2.379e-06,1.8451,0.0650,-2.737e-07,9.052e-06
+aux_emp_ponte_vlr_investimento,7.602e-07,3.523e-07,2.1576,0.0310,6.959e-08,1.451e-06
+aux_emp_refrota_vlr_investimento,-8.266e-06,8.132e-07,-10.164,0.0000,-9.86e-06,-6.672e-06
+aux_emp_drenagem_vlr_investimento,-1.793e-06,2.507e-07,-7.1528,0.0000,-2.284e-06,-1.302e-06
+aux_emp_corredor_vlr_investimento,-2.484e-07,5.364e-08,-4.6297,0.0000,-3.535e-07,-1.432e-07
+aux_emp_acessibilidade_vlr_investimento,-3.077e-06,8.893e-07,-3.4602,0.0005,-4.82e-06,-1.334e-06
+aux_emp_sinalizacao_vlr_investimento,-4.203e-07,6.24e-07,-0.6736,0.5006,-1.643e-06,8.027e-07
+vlr_investimento_per_capita,-0.0729,0.0110,-6.6432,0.0000,-0.0944,-0.0514
+aux_emp_ferrovia_vlr_investimento,4.259e-07,2.339e-08,18.210,0.0000, 3.8e-07,4.717e-07
+aux_emp_terminal_vlr_investimento,1.169e-06,1.961e-07,5.9617,0.0000,7.849e-07,1.554e-06
+aux_emp_rapido_vlr_investimento,8.331e-09,5.535e-08,0.1505,0.8804,-1.002e-07,1.168e-07
+aux_emp_metro_vlr_investimento,-3.579e-08,1.116e-08,-3.2075,0.0013,-5.765e-08,-1.392e-08
+aux_emp_passeio_vlr_investimento,1.562e-06,6.216e-07,2.5123,0.0120,3.432e-07,2.78e-06
