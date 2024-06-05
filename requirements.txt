@@ -7,6 +7,7 @@ matplotlib==3.5.1
 # separacao de categorias de empreendimentos
 wordcloud==1.9.3
 nltk==3.8.1
+pillow==10.3.0
 
 # geracao de mapa geoespacial
 hvplot==0.10.0
