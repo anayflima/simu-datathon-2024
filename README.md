@@ -1,6 +1,6 @@
 # DATATHON DE MOBILIDADE URBANA 2024 
 
-**Repositório da competição DATATHON DE MOBILIDADE URBANA 2024**
+**Repositório da competição [DATATHON DE MOBILIDADE URBANA 2024](https://simu.mdr.gov.br/datathon/)**
 
 ## Participantes
 - Ana Yoon Faria de Lima
@@ -12,7 +12,7 @@
 
 - Apresentação: [Apresentacao_Datathon.pdf](https://github.com/anayflima/simu-datathon-2024/blob/main/Apresentacao_Datathon.pdf)
 
-- Link para o vídeo: 
+- Vídeo: 
 https://www.youtube.com/watch?v=n7Tc9D83uS0
 
 
@@ -68,6 +68,9 @@ A pasta dados contém as bases utilizadas no projeto:
     - https://github.com/anayflima/simu-datathon-2024/blob/main/dados/teste_empreendimentos_codigo_corretor.csv
 - Subpasta tratados (contém as bases resultantes dos tratamentos e agrupamentos)
     - https://github.com/anayflima/simu-datathon-2024/tree/main/dados/tratados
+
+
+As etapas do projeto foram feitas em arquivos .ipynb, que contém a explicação dos passos executados em cada um deles. Os códigos foram modularizados em funções para aumentar a reprodutibilidade dos resultados. Além disso, as funções desenvolvidas para o [tratamento](https://github.com/anayflima/simu-datathon-2024/blob/main/tratamento_de_dados/modulos_tratamento.py) e [modelagem](https://github.com/anayflima/simu-datathon-2024/blob/main/modelagem_de_dados/modulos_modelo.py) de dados foram isoladas em arquivos .py de forma a facilitar uso futuro.
 
 **Análise de dados**
 
